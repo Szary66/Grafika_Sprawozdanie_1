@@ -1,0 +1,6 @@
+﻿  Main.cpp
+b:\aprojects\c++\opengl\first\first\main.cpp(38): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+b:\aprojects\c++\opengl\first\first\main.cpp(40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+b:\aprojects\c++\opengl\first\first\main.cpp(42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  First.vcxproj -> B:\APROJECTS\C++\OpenGL\First\Debug\First.exe
+  First.vcxproj -> B:\APROJECTS\C++\OpenGL\First\Debug\First.pdb (Partial PDB)
